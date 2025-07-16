@@ -17,7 +17,7 @@
 💡 I am a **Frontend Developer** and **Creative Coder** from 🇵🇰 **Pakistan**  
 🔥 I bring ideas to life with **React.js** & **Node.js**  
 🎯 I aim to build websites that are **fast**, **modern**, and **stunning**  
-⚡ Fun Fact: *I smash shuttlecocks 🏸 and hit sixes 🏏*
+⚡ Fun Fact: * playing badminton 🏸 and cricket 🏏*
 
 ---
 
