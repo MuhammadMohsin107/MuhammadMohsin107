@@ -1,5 +1,5 @@
 <!-- Header Section with Waves -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:f09819&height=250&section=header&text=🔥%20Muhammad%20Mohsin%20Akhlaq!pk%20🔥&fontSize=45&animation=fadeIn&fontAlignY=38&desc=A%20Passionate%20Frontend%20Developer%20from%20Pakistan%20🇵🇰&descAlignY=51&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:f09819&height=250&section=header&text=🔥%20Muhammad%20Mohsin%20Akhlaq!%20🔥&fontSize=45&animation=fadeIn&fontAlignY=38&desc=A%20Passionate%20Frontend%20Developer%20from%20Pakistan%20🇵🇰&descAlignY=51&descAlign=50" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF2E63&center=true&width=435&lines=🔥+Frontend+Developer;💻+MERN+Stack+Learner;🎨+Creative+Designer;🌟+Open+Source+Enthusiast" alt="Typing SVG" />
