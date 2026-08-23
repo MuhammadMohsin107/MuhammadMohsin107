@@ -1,192 +1,392 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:111827,100:0D1117&height=180&section=header&text=Muhammad%20Mohsin%20Akhlaq&fontSize=38&fontColor=F0F6FC&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%C2%B7%20AI%20%C2%B7%20SaaS%20%C2%B7%20Modern%20Web%20Products&descAlignY=55&descSize=16&descColor=8B949E" alt="Header" width="100%" />
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<br />
+<!--                     PREMIUM ANIMATED HEADER                    -->
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Building+AI-powered+SaaS+products.;Engineering+scalable+full-stack+systems.;Turning+complex+ideas+into+clean+digital+experiences.;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+PostgreSQL+%C2%B7+AI" alt="Typing animation" />
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<br /><br />
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:05070B,35:0B1220,70:111827,100:172554&height=210&section=header&text=Muhammad%20Mohsin%20Akhlaq&fontSize=39&fontColor=F0F6FC&animation=fadeIn&fontAlignY=37&desc=Full-Stack%20Engineer%20%C2%B7%20AI%20%C2%B7%20SaaS%20%C2%B7%20Modern%20Web%20Products&descSize=15&descColor=8B949E&descAlignY=61"
+width="100%"
+alt="Muhammad Mohsin Akhlaq"
+/>
 
-**I build production-ready web applications, intelligent platforms, and product-focused digital experiences.**
+<!-- Single-line typing animation prevents clipping on GitHub -->
 
-<br />
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=40&lines=Building+AI-powered+SaaS+products.;Engineering+scalable+full-stack+systems.;Designing+clean+products+around+real+problems.;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+PostgreSQL+%C2%B7+AI"
+alt="Live typing animation"
+/>
 
+<br/><br/>
+
+<!-- Small animated character: decorative only, kept subtle -->
+
+<img
+src="https://media.tenor.com/tRF59TL7c28AAAAM/bear.gif"
+width="72"
+alt="Animated bear"
+/>
+
+<br/>
+
+Full-Stack Engineer · AI · SaaS · Product Engineering
+
+I design and build production-ready web systems across product,
+application, data, and AI layers.
+
+<br/>
+
+<a href="YOUR-PORTFOLIO-URL">
+<img src="https://img.shields.io/badge/PORTFOLIO-Explore%20My%20Work-58A6FF?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Portfolio"/>
+</a>
+&nbsp;
 <a href="https://github.com/MuhammadMohsin107?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_Work-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Explore Work" />
+<img src="https://img.shields.io/badge/GITHUB-Explore%20Projects-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/muhammad-mohsin-9248162ba/">
-  <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
 </a>
-&nbsp;
+
+<br/><br/>
+
 <a href="mailto:muhammadmohsin3107@gmail.com">
-  <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+<img src="https://img.shields.io/badge/EMAIL-Start%20a%20Conversation-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
 </a>
 
-<br /><br />
+<br/><br/>
 
-`React` · `Next.js` · `Node.js` · `Express` · `PostgreSQL` · `MongoDB` · `TypeScript` · `AI`
+<code>React</code> · <code>Next.js</code> · <code>Node.js</code> · <code>Express</code> · <code>PostgreSQL</code> · <code>MongoDB</code> · <code>TypeScript</code> · <code>AI</code>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=MuhammadMohsin107&label=PROFILE%20VIEWS&color=58A6FF&style=flat-square" alt="Profile views"/>
 
 </div>
 
----
+👋 About Me
 
-## About
+I’m a Full-Stack Engineer focused on building scalable web applications,
+AI-powered SaaS products, intelligent platforms, and polished product experiences.
 
-I'm a Full-Stack Engineer focused on building scalable web applications, AI-powered SaaS products, intelligent platforms, and polished user experiences.
+My work spans frontend architecture, backend systems, databases, API design,
+automation, AI integrations, and product engineering.
 
-My work spans frontend architecture, backend systems, databases, API design, AI integrations, automation, and product-focused UX.
+Think in systems. Build with purpose. Ship with clarity.
 
----
+🧭 What I Build
 
-## Currently Building
+Area
 
-- **[Scorelo](https://github.com/MuhammadMohsin107/scorelo)** — AI-powered SEO, CRO & AI Visibility intelligence platform
-- **[Nexus.io](https://github.com/MuhammadMohsin107/Nexus.io)** — Lead generation and business discovery engine
-- **PortalHub** — AI-integrated job search & career intelligence platform *(in progress)*
-- Developer tools & product experiences focused on automation and intelligent workflows
+Focus
 
----
+AI & Intelligence
 
-## Selected Work
+LLM integrations, NLP, recommendations, intelligent workflows
+
+SaaS & Platforms
+
+Dashboards, analytics, business workflows, product systems
+
+Full-Stack Systems
+
+Frontend architecture, APIs, services, database-backed applications
+
+Data & Automation
+
+Discovery, scraping, normalization, background workflows
+
+Product Engineering
+
+UX architecture, reusable UI systems, performance and maintainability
+
+🚀 Featured Systems
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### Scorelo
+◉ Scorelo
 
-**AI-powered SEO, CRO & AI Visibility Intelligence Platform**
+AI-powered SEO, CRO & AI Visibility Platform
 
-A product-focused intelligence platform designed to analyze websites across SEO, content, performance, conversion, and AI visibility dimensions.
+A product intelligence system that brings together SEO, content,
+performance, conversion, and AI visibility into one actionable experience.
 
-**Focus**  
-`SaaS` `AI` `SEO` `CRO` `Analytics`
+Engineering
 
-**Stack**  
-`TypeScript` `React` `Node.js` `Express` `PostgreSQL`
+TypeScript React Node.js Express PostgreSQL
 
-<br />
+Focus
 
-<a href="https://github.com/MuhammadMohsin107/scorelo">View on GitHub →</a>
+AI SEO SaaS Analytics
+
+<a href="https://github.com/MuhammadMohsin107/scorelo">View Repository →</a>
 
 </td>
+
 <td width="50%" valign="top">
 
-### Nexus.io
+◉ Nexus.io
 
-**Lead Generation & Business Discovery Engine**
+Lead Generation & Business Discovery Engine
 
-A discovery and data platform built around business intelligence, lead generation, structured data collection, and automated workflows.
+A data-driven platform for discovering, collecting, normalizing,
+and processing business information for lead intelligence.
 
-**Focus**  
-`Lead Gen` `Automation` `Data` `Scraping`
+Engineering
 
-**Stack**  
-`React` `Node.js` `JavaScript` `PostgreSQL`
+React Node.js Python PostgreSQL
 
-<br />
+Focus
 
-<a href="https://github.com/MuhammadMohsin107/Nexus.io">View on GitHub →</a>
+Lead Gen Automation Data
+
+<a href="https://github.com/MuhammadMohsin107/Nexus.io">View Repository →</a>
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
-### PortalHub
+◉ PortalHub
 
-**AI-Integrated Job & Career Intelligence Platform**
+AI Job & Career Intelligence Platform
 
-A full-stack platform combining job discovery, resume intelligence, AI recommendations, career assistance, and mentorship workflows.
+A full-stack platform combining job discovery, resume intelligence,
+AI recommendations, career assistance, and mentorship workflows.
 
-**Focus**  
-`AI` `NLP` `Recommendations` `Career Tech`
+Engineering
 
-**Stack**  
-`Next.js` `Node.js` `MongoDB` `AI`
+Next.js Node.js MongoDB AI
 
-<br />
+Focus
 
-<a href="https://github.com/MuhammadMohsin107">View profile →</a>
+AI NLP Recommendations
+
+<a href="https://github.com/MuhammadMohsin107?tab=repositories">Explore Projects →</a>
 
 </td>
+
 <td width="50%" valign="top">
 
-### Additional Work
+◉ More Work
 
-Selected experiments and product explorations in e-commerce, automation, and modern web experiences.
+Additional work across e-commerce, automation, dashboards,
+developer tooling, and modern web applications.
 
-**Focus**  
-`Product` `Automation` `Full-Stack`
+Focus
 
-**Stack**  
-`React` `Node.js` `Python` `Docker`
+Full-Stack Automation Product Engineering
 
-<br />
-
-<a href="https://github.com/MuhammadMohsin107?tab=repositories">Explore repositories →</a>
+<a href="https://github.com/MuhammadMohsin107?tab=repositories">Explore Repositories →</a>
 
 </td>
+
 </tr>
 </table>
 
-> Explore all repositories for additional experiments, applications, and open-source work.
+🏗️ Architecture Mindset
 
----
+                         PRODUCT
+                            │
+                            ▼
+                   ┌─────────────────┐
+                   │   WEB CLIENT    │
+                   │ React / Next.js │
+                   └────────┬────────┘
+                            │
+                            ▼
+                   ┌─────────────────┐
+                   │  API / SERVICES │
+                   │ Node / Express  │
+                   └────────┬────────┘
+                            │
+                   ┌────────┴─────────┐
+                   ▼                  ▼
+            ┌──────────────┐   ┌──────────────┐
+            │ DOMAIN LOGIC │   │  AI / NLP    │
+            │   SERVICES   │   │   SERVICES   │
+            └──────┬───────┘   └──────┬───────┘
+                   │                  │
+                   └────────┬─────────┘
+                            ▼
+                   ┌─────────────────┐
+                   │    DATA LAYER   │
+                   │ PostgreSQL      │
+                   │ MongoDB / Redis │
+                   └────────┬────────┘
+                            │
+                            ▼
+                   ┌─────────────────┐
+                   │ INFRASTRUCTURE  │
+                   │ Docker · Linux  │
+                   │ CI/CD · Workers │
+                   └─────────────────┘
 
-## Engineering Stack
+I care about clear boundaries, reliable data flows, maintainable code,
+and architecture that can evolve with the product.
 
-### Frontend
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
-![Vite](https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=646CFF)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+🛠️ Engineering Stack
 
-### Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=FFFFFF)
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0D1117?style=flat-square&logo=postman&logoColor=FF6C37)
+Application
 
-### Data & Infrastructure
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248)
-![Redis](https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=DC382D)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=githubactions&logoColor=2088FF)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624)
 
-### AI & Product Engineering
-`LLM Integrations` · `NLP` · `Recommendation Systems` · `Automation` · `SEO Intelligence` · `Analytics` · `Product UX`
 
----
 
-## Experience
 
-### Full-Stack Developer · Tetralogicx  
-**Aug 2025 — Present**
 
-Building full-stack web applications, SaaS products, APIs, AI-powered systems, dashboards, and scalable backend services.
 
-**Previously:** Frontend Developer · Tetralogicx  
-**Aug 2024 — Aug 2025**
 
-Focused on modern frontend architecture, responsive interfaces, component systems, and product-focused user experiences.
+Services & APIs
 
----
 
-## Engineering Principles
 
-```text
-01  Build for the user, not just the feature.
-02  Keep systems simple before making them scalable.
-03  Prefer maintainable architecture over clever code.
-04  Design the experience before polishing the implementation.
-05  Use AI where it creates real product value.
-06  Ship, measure, iterate.
+
+
+
+Data & Infrastructure
+
+
+
+
+
+
+
+
+AI & Product Engineering
+
+LLM Integrations · NLP · Recommendation Systems
+· Automation · SEO Intelligence · Analytics · Product UX
+
+💼 Experience
+
+Full-Stack Developer · Tetralogicx
+
+Aug 2025 — Present
+
+Building full-stack applications, SaaS products, APIs, dashboards,
+integrations, and AI-enabled workflows across frontend and backend systems.
+
+Previously — Frontend Developer · Tetralogicx
+Aug 2024 — Aug 2025
+
+Focused on frontend architecture, responsive product interfaces,
+component systems, and maintainable user experiences.
+
+🎓 Education
+
+BSCS — University of Lahore
+
+Final-year Computer Science student with a focus on software engineering,
+web technologies, systems, and product development.
+
+🎯 Current Focus
+
+2026
+ │
+ ├── AI-powered SaaS architecture
+ ├── Full-stack system design
+ ├── PostgreSQL & data modeling
+ ├── AI / LLM product integration
+ ├── Automation & intelligent workflows
+ ├── Production-oriented backend systems
+ └── Developer tooling & open source
+
+🧠 Engineering Principles
+
+Design for Change — build systems that can evolve without unnecessary rewrites.
+Clear Boundaries — keep UI, business logic, data, and infrastructure responsibilities well defined.
+Data Is Architecture — treat schemas, validation, indexing, and access patterns as first-class concerns.
+Automate Repetition — turn recurring workflows into reliable automation.
+Prefer Simplicity — introduce complexity only when the problem requires it.
+AI With Purpose — use AI where it creates meaningful product value.
+
+📈 GitHub Intelligence
+
+<div align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=MuhammadMohsin107&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&rank_icon=github&include_all_commits=true"
+height="175"
+alt="GitHub statistics"
+/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMohsin107&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=6"
+height="175"
+alt="Top languages"
+/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadMohsin107&bg_color=0D1117&color=8B949E&line=58A6FF&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true&custom_title=Engineering%20Activity"
+width="94%"
+alt="GitHub contribution activity"
+/>
+
+</div>
+
+🌐 Portfolio
+
+The portfolio is the visual layer of my engineering profile — focused on
+selected products, case studies, architecture decisions, and the work behind
+the interfaces.
+
+Work → Case Study → Architecture → Technology → Outcome
+
+<a href="YOUR-PORTFOLIO-URL">
+<img src="https://img.shields.io/badge/VISIT%20PORTFOLIO-58A6FF?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Visit portfolio"/>
+</a>
+
+🤝 Let's Build
+
+Open to:
+
+AI Products · SaaS Platforms · Developer Tools
+· Data Systems · Automation · Modern Web Applications
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/MuhammadMohsin107">
+<img src="https://img.shields.io/badge/GITHUB-Explore%20My%20Systems-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/muhammad-mohsin-9248162ba/">
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:muhammadmohsin3107@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-Start%20a%20Conversation-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<code>Design → Architect → Build → Measure → Iterate</code>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:172554,45:111827,75:0B1220,100:05070B&height=120&section=footer&animation=twinkling"
+width="100%"
+alt="Animated footer"
+/>
+
+</div>
