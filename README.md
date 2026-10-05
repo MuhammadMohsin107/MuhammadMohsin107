@@ -68,20 +68,20 @@ I think in systems, build with purpose and ship with clarity.
 I care about clear boundaries, reliable data flows, maintainable code, and architecture that can evolve with the product.
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
-
+<!--
 ## Experience
-
+<!--
 **Full-Stack Developer, Tetralogicx** &nbsp;·&nbsp; Aug 2025 – Present
 Building full-stack applications, SaaS products, APIs, dashboards, integrations and AI-enabled workflows across frontend and backend systems.
-
+<!--
 **Frontend Developer, Tetralogicx** &nbsp;·&nbsp; Aug 2024 – Aug 2025
 Frontend architecture, responsive product interfaces, component systems and maintainable user experiences.
-
+<
 **BSCS, University of Lahore**
 Computer Science, with a focus on software engineering, web technologies, systems and product development.
-
+<
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
-
+-->
 ## Current focus
 
 - AI-powered SaaS architecture and LLM product integration
