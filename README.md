@@ -35,8 +35,8 @@ I think in systems, build with purpose and ship with clarity.
 | **Product Engineering** | UX architecture, reusable UI systems, performance and maintainability |
 
 <br/>
-
-## Featured systems
+<!--
+ ## Featured systems
 
 <div align="center">
 <table>
@@ -50,6 +50,7 @@ I think in systems, build with purpose and ship with clarity.
 </tr>
 </table>
 </div>
+-->
 
 <br/>
 
