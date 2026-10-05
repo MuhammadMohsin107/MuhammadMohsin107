@@ -92,7 +92,7 @@ Computer Science, with a focus on software engineering, web technologies, system
 - Developer tooling and open source
 <
 <div align="center"><img src="assets/bg-matrix.svg" width="100%" alt=""/></div>
-<
+
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 -->
 ## Engineering principles
