@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110" role="img" aria-label="Design, Architect, Build, Measure, Iterate">
+<defs><clipPath id="c"><rect width="1200" height="110" rx="16"/></clipPath>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#050A14"/><stop offset="1" stop-color="#0F2347"/></linearGradient>
+<linearGradient id="ln" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#58A6FF" stop-opacity="0"/><stop offset="0.5" stop-color="#58A6FF"/><stop offset="1" stop-color="#58A6FF" stop-opacity="0"/></linearGradient></defs>
+<g clip-path="url(#c)"><rect width="1200" height="110" fill="url(#bg)"/>
+<rect x="-400" y="90" width="400" height="2" fill="url(#ln)"><animate attributeName="x" from="-400" to="1200" dur="5s" repeatCount="indefinite"/></rect>
+<text x="600" y="58" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="19" fill="#9CC3F5">Design  →  Architect  →  Build  →  Measure  →  Iterate</text></g>
+<rect x="0.5" y="0.5" width="1199" height="109" rx="16" fill="none" stroke="#1F3A66"/>
+</svg>
