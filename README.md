@@ -4,9 +4,9 @@
 
 <br/>
 
-<a href="https://mohsinakhlaqportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/muhammadmohsinakhlaq/"><img src="https://img.shields.io/badge/LinkedIn-Connect-1F3A66?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1220" alt="LinkedIn"/></a>
-<a href="mailto:mohsinchaudhary1209@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-1F3A66?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1220" alt="Email"/></a>
+<a href="https://mohsinakhlaqportfolio.vercel.app/"><img src="assets/btn-portfolio.svg" height="46" alt="Portfolio"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/muhammadmohsinakhlaq/"><img src="assets/btn-linkedin.svg" height="46" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="mailto:mohsinchaudhary1209@gmail.com"><img src="assets/btn-email.svg" height="46" alt="Email"/></a>
 
 <br/><br/>
 
