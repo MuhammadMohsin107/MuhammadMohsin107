@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="142" height="46" viewBox="0 0 142 46" role="img" aria-label="LinkedIn">
+<defs><clipPath id="c"><rect x="1" y="1" width="140" height="44" rx="12"/></clipPath>
+<linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#10203D"/><stop offset="1" stop-color="#0A1426"/></linearGradient></defs>
+<g clip-path="url(#c)"><rect width="142" height="46" fill="url(#g)"/></g>
+<rect x="1" y="1" width="140" height="44" rx="12" fill="none" stroke="#24457A" stroke-width="1.2"/>
+<g transform="translate(20,13)"><rect width="20" height="20" rx="4" fill="#9CC3F5"/><text x="10" y="15" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="12.5" font-weight="700" fill="#0D1526">in</text></g>
+<text x="52" y="28.5" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#E6EDF3" letter-spacing="0.2">LinkedIn</text>
+</svg>
