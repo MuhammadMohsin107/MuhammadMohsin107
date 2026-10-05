@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="46" viewBox="0 0 150 46" role="img" aria-label="Portfolio">
+<defs><clipPath id="c"><rect x="1" y="1" width="148" height="44" rx="12"/></clipPath>
+<linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#6DB3FF"/><stop offset="1" stop-color="#4A93EE"/></linearGradient></defs>
+<g clip-path="url(#c)"><rect width="150" height="46" fill="url(#g)"/><rect x="-60" y="-4" width="34" height="60" fill="#fff" opacity="0.28" transform="skewX(-20)"><animate attributeName="x" values="-60;190;190" keyTimes="0;0.35;1" dur="5s" repeatCount="indefinite"/></rect></g>
+<rect x="1" y="1" width="148" height="44" rx="12" fill="none" stroke="#7DB9FF" stroke-width="1.2"/>
+<g transform="translate(20,13)"><g fill="none" stroke="#06101F" stroke-width="1.7" stroke-linecap="round"><circle cx="10" cy="10" r="8.3"/><ellipse cx="10" cy="10" rx="3.6" ry="8.3"/><path d="M1.7 10h16.6"/></g></g>
+<text x="52" y="28.5" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#06101F" letter-spacing="0.2">Portfolio</text>
+</svg>
