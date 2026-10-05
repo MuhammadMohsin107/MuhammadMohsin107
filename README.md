@@ -79,10 +79,8 @@ Frontend architecture, responsive product interfaces, component systems and main
 <
 **BSCS, University of Lahore**
 Computer Science, with a focus on software engineering, web technologies, systems and product development.
-<
+
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
--->
-<!--
 ## Current focus
 <
 - AI-powered SaaS architecture and LLM product integration
