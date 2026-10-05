@@ -82,18 +82,19 @@ Computer Science, with a focus on software engineering, web technologies, system
 <
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 -->
+<!--
 ## Current focus
-
+<
 - AI-powered SaaS architecture and LLM product integration
 - Full-stack system design, PostgreSQL and data modeling
 - Production-oriented backend systems
 - Automation and intelligent workflows
 - Developer tooling and open source
-
+<
 <div align="center"><img src="assets/bg-matrix.svg" width="100%" alt=""/></div>
-
+<
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
-
+-->
 ## Engineering principles
 
 | | |
